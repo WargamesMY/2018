@@ -51,6 +51,7 @@ No hints will be given once a challenge is solved.
 * [1.docx](https://huntforbug.io/wargames-my-december-2018-1-docx/) - ayamkambing
 * [aes-ecb-magic](https://huntforbug.io/wargames-my-december-2018-aes-ecb-magic/) - ayamkambing
 * [Business Proposal](https://huntforbug.io/wargames-my-december-2018-business-proposal/) - ayamkambing
+* [PHP Sandbox](https://huntforbug.io/wargames-my-december-2018-php-sandbox/) - ayamkambing
 * [1.docx](http://www.jasveermaan.com/index.php/2018/12/09/wgmy18-satu-doc/) - Ribena Labs
 * [PHP Sandbox](http://www.jasveermaan.com/index.php/2018/12/09/wgmy18-php-sandbox/) - Ribena Labs
 * [Teka Teki Pakcik Bawang](http://www.jasveermaan.com/index.php/2018/12/09/wgmy18-teka-teki-pakcik-bawang/) - Ribena Labs
