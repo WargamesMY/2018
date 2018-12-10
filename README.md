@@ -55,6 +55,7 @@ No hints will be given once a challenge is solved.
 * [1.docx](http://www.jasveermaan.com/index.php/2018/12/09/wgmy18-satu-doc/) - Ribena Labs
 * [PHP Sandbox](http://www.jasveermaan.com/index.php/2018/12/09/wgmy18-php-sandbox/) - Ribena Labs
 * [Teka Teki Pakcik Bawang](http://www.jasveermaan.com/index.php/2018/12/09/wgmy18-teka-teki-pakcik-bawang/) - Ribena Labs
+* [faggot2.0](https://daniellimws.github.io/wargamesmy-faggot.html) - daniellimws
 
 #### *Final Scoreboard*
 ![image](score.png)
