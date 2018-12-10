@@ -35,8 +35,8 @@ No hints will be given once a challenge is solved.
 ```
 
 #### *Write-up*
-* Full Writeup from [woitheuk](writeup/woitheuk.pdf)
-* Full Writeup from [Black Sushi](writeup/Black%20Sushi.pdf)
+* [Full Writeup](writeup/woitheuk.pdf) from woitheuk
+* [Full Writeup](writeup/Black%20Sushi.pdf) from Black Sushi
 * [Just Valid It!](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-just-valid-it-writeup/) - KaizenSecurity
 * [Business Proposal](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-business-proposalwriteup/) - KaizenSecurity
 * [babypwn2.0](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-babypwn2-0-writeup/) - KaizenSecurity
