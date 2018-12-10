@@ -43,7 +43,6 @@ No hints will be given once a challenge is solved.
 * [Full Writeup](writeup/woitheuk.pdf) from woitheuk
 * [Full Writeup](writeup/Black%20Sushi.pdf) from Black Sushi
 
-
 |Challenge|Links|
 |---------|-----|
 |Just Valid It!         |* [KaizenSecurity](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-just-valid-it-writeup/)      |
@@ -56,6 +55,7 @@ No hints will be given once a challenge is solved.
 |QuickMEH               |* [KaizenSecurity](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-quickmeh-writeup/)           |
 |WASM                   |* [KaizenSecurity](https://kaizen1996.wordpress.com/2018/12/09/49/)                                              |
 |Teka Teki Pakcik Bawang|* [ayamkambing](https://huntforbug.io/wargames-my-december-2018-teka-teki-pakcik-bawang/) <br> * [Ribena Labs](http://www.jasveermaan.com/index.php/2018/12/09/wgmy18-teka-teki-pakcik-bawang/)                 |
+|faggot2.0				|* [daniellimws](https://daniellimws.github.io/wargamesmy-faggot.html)|
 
 #### *Final Scoreboard*
 
