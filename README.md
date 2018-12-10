@@ -56,6 +56,7 @@ No hints will be given once a challenge is solved.
 |WASM                   |* [KaizenSecurity](https://kaizen1996.wordpress.com/2018/12/09/49/)                                              |
 |Teka Teki Pakcik Bawang|* [ayamkambing](https://huntforbug.io/wargames-my-december-2018-teka-teki-pakcik-bawang/) <br> * [Ribena Labs](http://www.jasveermaan.com/index.php/2018/12/09/wgmy18-teka-teki-pakcik-bawang/)                 |
 |faggot2.0				|* [daniellimws](https://daniellimws.github.io/wargamesmy-faggot.html)|
+|Missing Word|* [ayamkambing](https://huntforbug.io/wargames-my-december-2018-missing-word/)|
 
 #### *Final Scoreboard*
 
