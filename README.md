@@ -19,5 +19,27 @@ End Event: 23:55 - 08 December 2018
 
 Rules might be updated from time to time, without prior notice.
 ```
+
+#### *Write-up*
+* Full Writeup from [woitheuk](writeup/woitheuk.pdf)
+* Full Writeup from [Black Sushi](writeup/Black Sushi.pdf)
+* [Just Valid It!](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-just-valid-it-writeup/) - KaizenSecurity
+* [Business Proposal](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-business-proposalwriteup/) - KaizenSecurity
+* [babypwn2.0](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-babypwn2-0-writeup/) - KaizenSecurity
+* [PHP Sandbox](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-php-sandbox-writeup/) - KaizenSecurity
+* [You Math Bro?](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-aes-ecb-magic-writeup-2/) - KaizenSecurity
+* [aes-ecb-magic](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-aes-ecb-magic-writeup/) - KaizenSecurity
+* [1.docx](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-satu-doc-writeup/) - KaizenSecurity
+* [QuickMEH](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-quickmeh-writeup/) - KaizenSecurity
+* [WASM](https://kaizen1996.wordpress.com/2018/12/09/49/) - KaizenSecurity
+* [You Math Bro?](https://huntforbug.io/wargames-my-december-2018-you-math-bro/) - ayamkambing
+* [Teka Teki Pakcik Bawang](https://huntforbug.io/wargames-my-december-2018-teka-teki-pakcik-bawang/) - ayamkambing
+* [1.docx](https://huntforbug.io/wargames-my-december-2018-1-docx/) - ayamkambing
+* [aes-ecb-magic](https://huntforbug.io/wargames-my-december-2018-aes-ecb-magic/) - ayamkambing
+* [Business Proposal](https://huntforbug.io/wargames-my-december-2018-business-proposal/) - ayamkambing
+* [1.docx](http://www.jasveermaan.com/index.php/2018/12/09/wgmy18-satu-doc/) - Ribena Labs
+* [PHP Sandbox](http://www.jasveermaan.com/index.php/2018/12/09/wgmy18-php-sandbox/) - Ribena Labs
+* [Teka Teki Pakcik Bawang](http://www.jasveermaan.com/index.php/2018/12/09/wgmy18-teka-teki-pakcik-bawang/) - Ribena Labs
+
 #### *Final Scoreboard*
 ![image](score.png)
