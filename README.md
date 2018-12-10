@@ -20,6 +20,20 @@ End Event: 23:55 - 08 December 2018
 Rules might be updated from time to time, without prior notice.
 ```
 
+#### *Scoring*
+```
+We do adaptive scoring based on the number of solves. All challenges start out at 500 and decrease from there.
+
+The 500pts will be equally distributed among teams solved that particular challenge.
+```
+
+#### *Hint*
+```
+Any hints will be distributed as announcements.
+
+No hints will be given once a challenge is solved.
+```
+
 #### *Write-up*
 * Full Writeup from [woitheuk](writeup/woitheuk.pdf)
 * Full Writeup from [Black Sushi](writeup/Black%20Sushi.pdf)
