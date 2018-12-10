@@ -22,7 +22,7 @@ Rules might be updated from time to time, without prior notice.
 
 #### *Write-up*
 * Full Writeup from [woitheuk](writeup/woitheuk.pdf)
-* Full Writeup from [Black Sushi](writeup/Black Sushi.pdf)
+* Full Writeup from [Black Sushi](writeup/Black%20Sushi.pdf)
 * [Just Valid It!](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-just-valid-it-writeup/) - KaizenSecurity
 * [Business Proposal](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-business-proposalwriteup/) - KaizenSecurity
 * [babypwn2.0](https://kaizen1996.wordpress.com/2018/12/09/wargames-my-ctf-2018-babypwn2-0-writeup/) - KaizenSecurity
