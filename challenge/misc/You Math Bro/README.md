@@ -17,7 +17,7 @@ Port: 4343
 
 **Hint :** -
 
-**Running The Challenge :**
+**Run The Challenge :**
 ```
 socat TCP-LISTEN:4343,reuseaddr,fork EXEC:php ./chal.php
 ```
