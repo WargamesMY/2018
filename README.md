@@ -42,7 +42,7 @@ No hints will be given once a challenge is solved.
 
 * [Full Writeup](writeup/woitheuk.pdf) from woitheuk
 * [Full Writeup](writeup/Black%20Sushi.pdf) from Black Sushi
-* [Full Writeup](https://daniellimws.github.io/wargamesmy-writeups.html) from daniellimws
+* [Full Writeup](https://github.com/daniellimws/daniellimws.github.io/blob/1adc7b014306fe8f29c9cd2057ec755382ed79ba/_posts/wargames.my-18/2018-12-09-wargamesmy-writeups.md#hackerman) from daniellimws
 
 |Challenge|Links|
 |---------|-----|
